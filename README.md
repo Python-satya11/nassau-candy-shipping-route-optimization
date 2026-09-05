@@ -12,9 +12,9 @@ The analysis supports route comparison, delivery-time monitoring, geographic per
 
 The dataset contains **10,194 shipment records and 18 fields** covering order information, shipment dates, customer geography, product information, sales, units, gross profit, and cost.
 
-**Dataset:** [Download / View Dataset](--)
+**Dataset:** [Download / View Dataset](Nassau Candy Distributor.csv)
 
-For the complete field-level description, see the [Data Dictionary](./data_dictionary.md).
+For the complete field-level description, see the [Data Dictionary](data_dictionary_updated.md).
 
 ## Key Findings & Recommendations
 
